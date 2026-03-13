@@ -43,5 +43,11 @@ This repository is surgically structured into **8 Specialized Categories**, each
 - **Handle (@nayrbryanGaming)**: Includes 60k followers and 43+ Github repos.
 
 ---
+
+## 🚀 Instant PDF Generation
+Because professional recruiters prefer high-fidelity PDFs, I have included a **One-Click Export Tool** in this repository:
+- **[GENERATE_MY_PDFS.bat](./GENERATE_MY_PDFS.bat)**: Double-click this file on your local Windows machine to instantly generate all 16 PDFs in their respective folders.
+
+---
 **Maintained by**: [nayrbryanGaming](https://github.com/nayrbryanGaming)  
 *Building the intersection of ownerless logic and creative presence.* 🚀
