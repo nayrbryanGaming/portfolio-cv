@@ -15,18 +15,20 @@ I build the rails for the future of money. My mission is to bridge the security 
 
 ---
 
-### 🏆 Featured Fintech Engineering
+### 🏆 Battle-Tested Fintech Infrastructure
+*National Standard Orchestration & Product Maturity*
 
 #### **SOLQ: The QRIS-on-Solana Bridge**
-*Retail Payments at Blockchain Speed.*
-- **The Achievement:** Processed **100+ Transactions** with **15% Gas Efficiency**.
-- **The Tech:** Anchor, Rust, Non-custodial Settlement.
-- **The Impact:** Engineered a zero-trust bridge connecting Web3 to the IDR economy.
+*Retail Payments at High Velocity.*
+- **Achievement:** Processed **100+ Transactions** with **15% Gas Efficiency**.
+- **Maturity:** Engineered a functional zero-trust bridge connecting Web3 to the national IDR economy.
+- **Tech:** Anchor, Rust, Non-custodial Settlement.
 
 #### **EscrowKita: Trustless L2 Finance**
-- **The Achievement:** 100% Technical Accuracy in automated event-driven settlement for **IDRX**.
-- **The Tech:** Base Network, Solidity, Smart Escrow.
-- **The Impact:** Validated regulated asset settlement on Ethereum Layer 2.
+*L2 Compliance Submission Artifact*
+- **Achievement:** 100% Technical Accuracy in automated event-driven settlement for **IDRX**.
+- **Tech:** Base Network, Solidity, Smart Escrow.
+- **Impact:** Validated regulated asset settlement on Ethereum Layer 2.
 
 #### **WarungPay: POS Optimization**
 - **The Achievement:** Reduced retail checkout time by **20%**.

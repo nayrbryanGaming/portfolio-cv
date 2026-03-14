@@ -17,15 +17,15 @@ Protocol Engineer specializing in **Ethereum Layer 2 (Base)** scalability and se
 
 ---
 
-### L2 PROJECT PORTFOLIO
+### BATTLE-TESTED BUILDER | HIGH-VELOCITY MVP SUBMISSIONS
 
-**Basedrop** | *L2 Payment Protocol*
+**Basedrop** | *L2 Payment Protocol MVP*
 - **Implemented** an open-source payment link protocol on the **Base Network**; achieved **100% technical accuracy** in initial L2 settlement tests.
-- **Impact:** Reduced onboarding friction by allowing users to claim assets via simple URL triggers.
+- **Impact:** Reduced onboarding friction by allowing users to claim assets via simple URL triggers at high velocity.
 
-**EscrowKita** | *Secure IDRX Settlement*
-- **Developed** an on-chain escrow platform using **IDRX** on Base; achieved **100% technical accuracy** in automated event-driven settlement logic during Base Hackathon 2.
-- **Milestone:** Finalist submission demonstrating secure, low-fee settlement for local Indonesian assets on Ethereum L2.
+**EscrowKita** | *Functional Submission: Base Hackathon 2*
+- **Developed** an on-chain escrow platform using **IDRX** on Base; achieved **100% technical accuracy** in automated event-driven settlement logic.
+- **Resilience:** Built a secure, low-fee settlement prototype for Indonesian assets on L2, demonstrating technical depth and rapid execution.
 
 **ChainShift (Avalanche/EVM)** | *Procedural Asset Sync*
 - **Architected** procedural crypto-native worlds with real-time on-chain state synchronization (**<500ms latency**).

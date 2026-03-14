@@ -18,17 +18,17 @@ Dynamic Community Leader and Digital Strategist with a proven record of building
 
 ---
 
-### EXPERIENCE & IMPACT
+### COMMUNITY ARCHITECTURE | LARGE-SCALE ENGAGEMENT ENGINES
 
 **Founder & Chairman** | *UKM E-Sport Atma Jaya Makassar* | **2023 – Present**
-- **Founded** and **Managed** the university's official gaming unit; grew organization membership by **40%** through strategic outreach.
-- **Managed** a multi-tier community structure, maintaining a **90% retention rate** for competitive events.
-- **Mentored** 50+ students on the transition from competitive gaming to the official digital economy.
+- **Founded** the university's official gaming unit; **Orchestrated** organizational growth by **40%** through strategic outreach and leadership architecture.
+- **Retention:** Managed a multi-tier community structure, maintaining a **90% retention rate** for competitive events.
+- **Mentorship:** Mentored 50+ students on the transition from competitive gaming to the professional digital economy.
 
 **Partnered Content Strategist** | *nayrbryanGaming* | **2023 – Present**
 - **Cultivated** a hyper-engaged community of **60,000+ followers** on TikTok with a **5%+ engagement rate**.
-- **Partnered** as an official CREATOR for global titles including **Honor of Kings (MOONTON)** and **Mobile Legends (GARENA)**; drove **1000+ active user registrations**.
-- **Automated** a content "Growth Engine" using AI tools that increased video viral potential by **2.5x**.
+- **Partnerships:** Official CREATOR for global titles (**Honor of Kings**, **Mobile Legends**); drove **1000+ active user registrations**.
+- **Velocity:** Automated a content "Growth Engine" using AI tools that increased video viral potential by **2.5x**.
 
 **Global Impact Fellowship (GIF) 2026** Participant (Singapore)
 - Selected representatively for peak-tier leadership training and innovative social impact in youth gaming communities.

@@ -15,13 +15,14 @@ Mobile Engineer dedicated to the craft of **Flutter** development. I believe in 
 
 ---
 
-### 🏆 Featured Mobile Engineering
+### 🏆 Battle-Tested Mobile Engineering
+*High-Velocity Delivery & Scalable Architecture*
 
 #### **MOVV BMI: Health Performance**
 *Stable, Scalable, and Verified.*
-- **The Achievement:** **0% Crash Rate** on Play Store with **4.5+ Star Rating**.
-- **The Tech:** Clean Architecture, Flutter, Dart.
-- **The Impact:** Delivered a reliable health tool used by a growing campus community.
+- **Achievement:** **0% Crash Rate** on Play Store with **4.5+ Star Rating**.
+- **Execution:** Engineered using **Clean Architecture** for **80% code reusability**.
+- **Impact:** Delivered a reliable health tool validated against **100% of international standards**.
 
 #### **NNG Cinema: Intelligent Streaming Assistant**
 - **The Achievement:** **30% faster** data loading through custom runtime caching.

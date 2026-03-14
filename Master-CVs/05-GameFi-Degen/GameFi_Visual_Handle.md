@@ -15,18 +15,19 @@ I build **Fully On-Chain Games**. My mission is to remove the backend forever, e
 
 ---
 
-### 🏆 Featured GameFi Quests
+### 🏆 Battle-Tested GameFi Quests
+*Functional MVPs & Fully On-Chain State*
 
 #### **Proof of Play: The On-Chain Dungeon**
-*Zero Servers. Total Sovereignty.*
-- **The Achievement:** 100% On-Chain Logic in **4 weeks**.
-- **The Tech:** Solana, Anchor, PDAs.
-- **The Impact:** A protocol where players are the true owners of the state.
+*Zero Servers. Total Sovereignty Submission.*
+- **Achievement:** 100% On-Chain Logic built in **4 weeks**.
+- **Resilience:** Successfully managed complex state machines entirely on-chain for Colosseum.
+- **Impact:** A protocol where players are the true owners of the game state.
 
 #### **ChainShift: Procedural Realities**
-*EVM-Speed World Generation.*
-- **The Achievement:** Real-time state sync with **<500ms latency**.
-- **The Tech:** Avalanche, Procedural Algorithms.
+*EVM-Speed World Generation Artifact.*
+- **Achievement:** Real-time state sync with **<500ms latency**.
+- **Tech:** Avalanche Subnets, Procedural Algorithms.
 - **The Impact:** Blurring the line between local graphics and global state.
 
 #### **DeadmanSwitch: Autonomous Stakes**

@@ -17,17 +17,18 @@ Master-level Web3 builder with exhaustive proof-of-work across **43+ repositorie
 
 ---
 
-### HACKATHON & PROJECT IMPACT
+### BATTLE-TESTED BUILDER | HIGH-VELOCITY MVP SUBMISSIONS
 
-**SOLQ (formerly WarungPay)** | *Lead Builder*
-- **Architected** a non-custodial payment orchestrator bridging Solana assets with Indonesia's **QRIS** national standard; processed **100+ transactions** on Devnet with **0% failure rate**.
+**SOLQ (formerly WarungPay)** | *Lead Architect*
+- **Architected** a functional non-custodial payment orchestrator bridging Solana assets with Indonesia's **QRIS** national standard; processed **100+ transactions** on Devnet with **0% failure rate**.
 - **Impact:** Optimized Anchor/Rust contracts resulting in a **15% reduction in gas consumption** for retail settlement layers.
+- **Velocity:** Built and deployed a production-ready payment bridge within a high-pressure development cycle.
 
-**Proof of Play** | *On-chain Game Development*
-- **Implemented** a zero-backend dungeon game protocol on Solana; implemented **100% on-chain game logic** using the Anchor Framework and PDAs.
-- **Milestone:** Completed full game loop MVP in **4 weeks** during the Colosseum Hackathon with verified decentralized state management.
+**Proof of Play** | *Functional MVP Submission: Colosseum Hackathon*
+- **Engineered** a zero-backend dungeon game protocol on Solana; implemented **100% on-chain game logic** using the Anchor Framework and PDAs.
+- **Resilience:** Completed full game loop MVP in **4 weeks** despite complex state management requirements; verified decentralized sovereignty.
 
-**pow-agent** | *Autonomous Infrastructure*
+**pow-agent** | *Autonomous Infrastructure MVP*
 - **Automated** 100% of devnet task completion workflows via autonomous heartbeat agents; achieved **100% submission accuracy**.
 
 ---

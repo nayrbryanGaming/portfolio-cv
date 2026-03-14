@@ -15,19 +15,20 @@ Specialized in **Ethereum Layer 2 (Base)** development. Building the Rails for t
 
 ---
 
-### 🏆 Featured On-Chain Projects
+### 🏆 Battle-Tested L2 Artifacts
+*Functional MVPs Built at High Velocity*
 
 #### **Basedrop: Frictionless Onboarding**
 *Because claiming crypto should be as easy as clicking a link.*
-- **The Achievement:** First-to-market payment link prototype on Base L2.
-- **The Tech:** Solidity, TypeScript, viem.
-- **The Impact:** Simplified asset distribution for communities.
+- **Achievement:** First-to-market payment link prototype on Base L2.
+- **Impact:** Simplified asset distribution for communities with **0% friction**.
+- **Tech:** Solidity, TypeScript, viem.
 
 #### **EscrowKita: Trustless Local Finance**
-*Bringing IDRX to the Blockchain Safely*
-- **The Achievement:** Created the premier escrow logic for IDRX on Base during Hackathon 2.
-- **The Tech:** Automated Event-Driven Settlement.
-- **The Impact:** Proved L2s are ready for real-world fiat-backed transactions.
+*Functional Submission: Base Hackathon 2*
+- **Achievement:** Created the premier escrow logic for IDRX on Base.
+- **Impact:** Proved L2s are ready for real-world fiat-backed transactions with **100% technical accuracy**.
+- **Tech:** Automated Event-Driven Settlement.
 
 #### **ChainShift: Worlds on EVM**
 - **The Achievement:** High-speed procedural world sync with **<500ms latency**.

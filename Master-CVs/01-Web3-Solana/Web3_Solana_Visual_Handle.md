@@ -15,19 +15,20 @@ Master-level builder focused on the intersection of **High-Speed Decentralized F
 
 ---
 
-### 🏆 Proof of Work (Solana Focus)
+### 🏆 Battle-Tested Builder (Solana Focus)
+*Turning Hackathon Sprints into Functional MVPs*
 
 #### **SOLQ: The QRIS-on-Solana Bridge**
-*Orchestrating Retail Payments in the Web3 Age*
-- **The Achievement:** Processed **100+ Devnet transactions** with **15% gas efficiency** boost.
-- **The Tech:** Anchor, Rust, Non-custodial Orchestration.
-- **The Impact:** Scaled retail-ready payments for Indonesian UMKM.
+*Orchestrating Retail Payments at High Velocity*
+- **Achievement:** Processed **100+ Devnet transactions** with **15% gas efficiency** boost.
+- **Tech:** Anchor, Rust, Non-custodial Orchestration.
+- **Impact:** Scaled retail-ready payments for Indonesian UMKM within a **fixed 4-week sprint**.
 
 #### **Proof of Play: 100% On-Chain Dungeon**
-*Zero Backend, Total Sovereignty*
-- **The Achievement:** Built a full game loop in **4 weeks** for Colosseum Hackathon.
-- **The Tech:** PDAs, Metaplex, Anchor.
-- **The Impact:** Proved complex state management can live entirely on-chain.
+*Zero Backend, Total Sovereignty Submission*
+- **Achievement:** Built a full game loop in **4 weeks** (Colosseum Hackathon submission).
+- **Tech:** PDAs, Metaplex, Anchor.
+- **Impact:** Proved complex state management can live entirely on-chain.
 
 #### **Botcall Protocol: Robotic Payment Standard**
 - **The Achievement:** **Architected** the first autonomous payment trigger for robotic actions with **100% success rate**.

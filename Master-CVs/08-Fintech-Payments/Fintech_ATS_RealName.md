@@ -18,20 +18,20 @@ Informatics Engineering student (Sem 6) specializing in **Payment Orchestration*
 
 ---
 
-### FINTECH & PAYMENT PORTFOLIO
+### BATTLE-TESTED PAYMENT INFRASTRUCTURE | NATIONAL STANDARD ORCHESTRATION
 
 **SOLQ (Evolution of WarungPay)** | *Lead Architect*
-- **Orchestrated** a non-custodial payment orchestrator bridging Solana assets with Indonesia's **QRIS** national standard; successfully processed **100+ transactions** on Devnet with **0% failure rate**.
-- **Impact:** Optimized Anchor/Rust contracts resulting in a **15% reduction in gas consumption** for retail settlement layers.
-- **Strategy:** Built a retail-ready UX that resolves on-chain confirmation in **<2 seconds**.
+- **Orchestrated** a functional non-custodial payment orchestrator bridging Solana assets with Indonesia's **QRIS** national standard; successfully processed **100+ transactions** on Devnet with **0% failure rate**.
+- **Execution:** Optimized Anchor/Rust contracts resulting in a **15% reduction in gas consumption** for retail settlement layers.
+- **Velocity:** Built a retail-ready UX that resolves on-chain confirmation in **<2 seconds** within high-pressure build cycles.
 
-**EscrowKita** | *L2 Compliance & Settlement*
+**EscrowKita** | *L2 Compliance & Settlement MVP*
 - **Developed** an on-chain escrow platform using **IDRX** on Base; achieved **100% technical accuracy** in automated event-driven settlement logic.
 - **Innovation:** Bridged local fiat-backed assets (IDRX) with L2 security for trustless p2p commerce.
 
-**WarungPay (POS)** | *Legacy Retail Solution*
+**WarungPay (POS)** | *Product Evolution & Maturity*
 - **Developed** a Point of Sale system reducing transaction time by **20%** compared to manual flows.
-- **Engineered** offline-first architecture with **100% data consistency** across sync cycles.
+- **Resilience:** Engineered offline-first architecture with **100% data consistency** across sync cycles.
 
 ---
 

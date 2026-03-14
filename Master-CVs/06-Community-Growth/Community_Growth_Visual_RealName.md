@@ -15,12 +15,13 @@ I am more than a manager; I am a **Community Architect**. I build ecosystems whe
 
 ---
 
-### 🏆 Featured Leadership & Growth
+### 🏆 Community Architecture | Proven Growth
+*High-Velocity Ecosystem Building*
 
 #### **UKM E-Sport: From Zero to 40% Growth**
 *Founding a University Legacy.*
-- **The Achievement:** Built the first official campus gaming unit; **90% Retention Rate**.
-- **The Impact:** Bridged campus culture with the digital economy for hundreds of students.
+- **Achievement:** Built the first official campus gaming unit; **90% Retention Rate**.
+- **Impact:** Orchestrated organizational growth and bridged campus culture with the digital economy.
 
 #### **nayrbryanGaming: The 60k Creator Engine**
 *Scaling Digital Presence Organically.*

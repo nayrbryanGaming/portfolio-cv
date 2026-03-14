@@ -17,12 +17,12 @@ Master-level GameFi builder specializing in **fully on-chain state management** 
 
 ---
 
-### GAMEFI PORTFOLIO
+### BATTLE-TESTED BUILDER | TOP-VELOCITY GAMEFI MVPs
 
-**Proof of Play (Solana)** | *Lead Architect*
+**Proof of Play (Solana)** | *Functional MVP Submission: Colosseum*
 - **Engineered** a zero-backend dungeon game protocol; implemented **100% on-chain game logic** using the Anchor Framework and PDAs.
-- **Milestone:** Completed full game loop MVP in **4 weeks** during the Colosseum Hackathon with verified decentralized state management.
-- **Impact:** Achieved **100% backend-less logic**, ensuring total player sovereignty over assets.
+- **Resilience:** Completed full game loop MVP in **4 weeks** despite complex state management requirements.
+- **Sovereignty:** Achieved **100% backend-less logic**, ensuring total player ownership over game state.
 
 **ChainShift (Avalanche)** | *Core Builder*
 - **Architected** procedural crypto-native worlds with real-time on-chain state synchronization (**<500ms latency**).

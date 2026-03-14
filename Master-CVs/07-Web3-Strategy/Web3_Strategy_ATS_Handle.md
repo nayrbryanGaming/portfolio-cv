@@ -17,18 +17,18 @@ High-reach digital strategist and Web3 native building the future of community g
 
 ---
 
-### CONTENT STRATEGY PORTFOLIO
+### CREATOR ECONOMY ARCHITECTURE | VIRAL ADOPTION FUNNELS
 
 **nayrbryanGaming (Self-Branded Entity)** | *Creator & Strategist*
 - **Cultivated** a hyper-engaged community of **60,000+ followers** on TikTok with a **5%+ engagement rate**.
-- **Automated** viral content workflows using AI growth engines, achieving a **2.5x increase** in organic video reach (<7 days).
-- **Impact:** Produced educational Web3 content that drove **1,000+ user registrations** for decentralized apps and global gaming titles.
+- **Velocity:** Automated viral content workflows using AI growth engines, achieving a **2.5x increase** in organic video reach (<7 days).
+- **High-Impact Submissions:** Produced educational Web3 content that drove **1,000+ user registrations** for decentralized apps and global gaming titles.
 
-**Drip.haus & Objkt Placement** | *NFT Strategist*
+**Drip.haus & Objkt Placement** | *NFT Growth Engine*
 - **Implemented** active involvement on **Drip.haus**; converted technical "Proof of Work" into collectible digital assets for a global audience.
-- **Storytelling:** **Cultivated** a high-loyalty follower base by bridging technical blockchain concepts with creative creator presence.
+- **Accuracy:** Cultivated a high-loyalty follower base by bridging technical blockchain concepts with creative creator presence.
 
-**Waitlist & Minting Funnels**
+**Waitlist & Minting Funnels** | *Product Retainment*
 - **Developed** high-conversion minting funnels for GameFi projects, achieving **20% higher user retention** during alpha testnet phases.
 - **Strategy:** Built incentivized accountability loops (Stake-To-Done) to ensure 90% user activity rates.
 

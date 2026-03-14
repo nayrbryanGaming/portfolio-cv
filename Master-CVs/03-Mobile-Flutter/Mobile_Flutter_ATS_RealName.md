@@ -18,20 +18,20 @@ Dedicated Software Engineer specialized in high-performance mobile application d
 
 ---
 
-### MOBILE PROJECT PORTFOLIO
+### BATTLE-TESTED MOBILE ARTIFACTS | HIGH-VELOCITY DELIVERY
 
-**MOVV BMI** | *Mobile Health Application*
+**MOVV BMI** | *Battle-Tested Mobile Application*
 - **Developed** and published a health-centric application on the **Google Play Store**; achieved **0% crash rate** and **rating 4.5+ stars**.
-- **Engineered** using **Clean Architecture** resulting in **80% code reusability**, accelerating feature delivery by **2x**.
-- **Impact:** Validated decision support logic against **100% of international health standards**.
+- **Execution:** Engineered using **Clean Architecture** resulting in **80% code reusability**, accelerating feature delivery by **2x**.
+- **Quality:** Validated decision support logic against **100% of international health standards** with production-level stability.
 
-**NNG Cinema** | *Intelligent Movie Platform*
+**NNG Cinema** | *Intelligent Movie Architecture*
 - **Developed** an intelligent platform improving data retrieval speed by **30%** via runtime caching and optimized API polling.
-- **Orchestrated** the integration of Weather and TMDB APIs with **99.9% sync accuracy** for context-aware movie recommendations.
+- **Accuracy:** Orchestrated the integration of Weather and TMDB APIs with **99.9% sync accuracy** for context-aware recommendations.
 
-**WarungPay (POS)** | *FinTech Solution*
+**WarungPay (POS)** | *FinTech MVP Evolution*
 - **Developed** a Point of Sale system reducing transaction time by **20%** compared to manual workflows.
-- **Engineered** offline-first architecture with **100% data consistency** across sync cycles.
+- **Resilience:** Engineered offline-first architecture with **100% data consistency** across sync cycles.
 
 ---
 

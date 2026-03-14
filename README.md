@@ -1,14 +1,15 @@
-# my-professional-resumes: The Master Matrix (16 Versions) 🌌
+# 🌌 my-professional-resumes: The Master Matrix (16 Versions)
 
-Welcome to the definitive, surgically-filtered portfolio of **Vincentius Bryan Kwandou** (Web2/Formal) and **nayrbryanGaming** (Web3/Creative). 
+Welcome to the **definitive, surgically-filtered portfolio** of **Vincentius Bryan Kwandou** (Web2/Formal) and **@nayrbryanGaming** (Web3/Creative). 
 
-This repository contains **16 specialized CV variations** across 8 core technology and leadership categories. Each category is provided in two distinct formats:
-1. **ATS-Friendly**: Optimized for automated screening systems (clean, linear, keyword-rich).
-2. **Visual-Creative**: Optimized for direct DM/Personal application (premium layout, high-impact storytelling).
+This repository is architected for maximum impact, containing **16 specialized CV variations** across 8 core technology and leadership categories. Each category is meticulously crafted in two distinct formats:
+
+1.  **ATS-Friendly**: Clean, linear, and keyword-rich. Optimized for automated screening systems.
+2.  **Visual-Creative**: High-impact storytelling, premium layout, and personal branding. Optimized for direct outreach and personal applications.
 
 ---
 
-## 🔗 Unified Social & Reputation Hub
+## 🔗 Unified Reputation Hub
 - **LinkedIn**: [Bryan Kwandou](https://www.linkedin.com/in/bryankwandou) — *Corporate Identity*
 - **TikTok**: [@nayrbryanGaming](https://www.tiktok.com/@nayrbryanGaming) — **60,000+ Followers**
 - **GitHub**: [nayrbryanGaming](https://github.com/nayrbryanGaming) — **43+ Repositories**
@@ -19,7 +20,7 @@ This repository contains **16 specialized CV variations** across 8 core technolo
 
 ## 📂 The 16-File Master CV Matrix
 
-| # | Specialized Category | Identity Persona | ATS Version | Visual Version |
+| # | Specialized Category | Persona | ATS Version | Visual Version |
 |---|---|---|---|---|
 | 1 | **Web3 Developer (Solana)** | @nayrbryanGaming | [ATS](./Master-CVs/01-Web3-Solana/Web3_Solana_ATS_Handle.md) | [Visual](./Master-CVs/01-Web3-Solana/Web3_Solana_Visual_Handle.md) |
 | 2 | **Ethereum/Base Developer** | @nayrbryanGaming | [ATS](./Master-CVs/02-Eth-Base/Eth_Base_ATS_Handle.md) | [Visual](./Master-CVs/02-Eth-Base/Eth_Base_Visual_Handle.md) |
@@ -32,9 +33,17 @@ This repository contains **16 specialized CV variations** across 8 core technolo
 
 ---
 
-## ⚡ Instant PDF Generation
-Because professional recruiters prefer high-fidelity PDFs, I have included a **One-Click Export Tool** in this repository:
-- **[GENERATE_MY_PDFS.bat](./GENERATE_MY_PDFS.bat)**: Double-click this file on your local Windows machine to instantly generate all 16 PDFs.
+## 🚀 Instant Export & Global Launch
+To generate high-fidelity PDFs for your applications:
+- **Local PDF Tool**: Run **[GENERATE_MY_PDFS.bat](./GENERATE_MY_PDFS.bat)** locally on your Windows machine to instantly convert all 16 Markdown files into professional PDFs using `md-to-pdf`.
+- **Manual Export**: All files are compatible with standard Markdown-to-PDF tools (e.g., VS Code Extensions, Pandoc, or Online Converters).
+
+---
+
+## 🛡️ Identity Protocol & Persona Mapping
+This matrix follows a strict identity separation to protect and enhance your professional brand:
+- **Creative Persona (@nayrbryanGaming)**: Used for Web3, AI, and Gaming categories.
+- **Formal Persona (Vincentius Bryan Kwandou)**: Used for Mobile, Fintech, and Leadership categories.
 
 ---
 
@@ -46,10 +55,6 @@ Because professional recruiters prefer high-fidelity PDFs, I have included a **O
 
 ---
 
-## 🛡️ Identity Protocol
-- **Formal (Vincentius)**: Includes UKM Entrepreneurship, GIF 2026, and Corporate Engineering.
-- **Creative (@nayrbryanGaming)**: Includes 60k followers, 43+ Github repos, and Web3 Degen Mastery.
-
----
 **Maintained by**: [nayrbryanGaming](https://github.com/nayrbryanGaming)  
 *Building the intersection of ownerless logic and creative presence.* 🚀
+
